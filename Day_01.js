@@ -1,5 +1,4 @@
-const mongoose = require("mongoose");
-
+import mongoose from "mongoose";
 /*
 Schema is a constructor function in mongoose and it receives an object as an argument. This object specifies the structure of our documents. A schema defines the structure of the documents in a MongoDB collection. It outlines what fields a document will have, their data types, and any additional options like validation rules and default values.
 */
